@@ -67,7 +67,6 @@ header .header-text {
   gap: 32px;
   grid-template-columns: 1fr 1fr 1fr;
   margin-bottom: 163px;
-  background-color: #ffffff;
 }
 .content .card {
   /* width: 31.418%; */
